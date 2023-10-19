@@ -37,12 +37,12 @@ class App extends React.Component{
             <div className="App">
 
                 <h1 className="text">Better yourself. Better the world.</h1>
-                <h3 className="text">Your daily dose of helpful advice to guide you through the day.</h3>
+                <h4 className="text">Your daily dose of helpful advice to guide you through the day.</h4>
                 <div className="footer">
           <a href="https://github.com/thetosinfaith" target="_blank" rel="noopener noreferrer">
             Project by Tosin Faith </a>
           |
-          <span> Built with ❤️ by thetosinfaith</span>
+          <span> Created with ❤️</span>
           </div>
         
                 
