@@ -35,12 +35,14 @@ class App extends React.Component{
         const {advice} = this.state;
         return(
             <div className="App">
+
+                <h1 className="text">Better yourself. Better the world.</h1>
+                <h3 className="text">Your daily dose of helpful advice to guide you through the day.</h3>
                 <div className="footer">
           <a href="https://github.com/thetosinfaith" target="_blank" rel="noopener noreferrer">
-            Project by Tosin Faith
-          </a>
+            Project by Tosin Faith </a>
           |
-          <span>Built with ❤️ by thetosinfaith</span>
+          <span> Built with ❤️ by thetosinfaith</span>
           </div>
         
                 
